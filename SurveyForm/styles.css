@@ -1,1 +1,37 @@
+body {
+  background-color: #220e24;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.header {
+  padding: 50px;
+  border: solid #639cd9;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  background-color: #5454c5;
+}
+
+h1, p {
+  color: #ffffff;
+}
+
+form {
+  border-style: solid;
+  border-color: #639cd9;
+  background-color: #342056;
+  border-radius: 25px;
+  padding: 30px;
+  color: #ffffff;
+  text-align: left;
+}
+
+label {
+  display: block;
+  margin: 10px auto;
+}
+
+
+
 
